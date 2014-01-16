@@ -1,3 +1,3 @@
 Jersey-Example
 ==============
-A simple project for hello world in jersey
+A simple restful web sevice  project for hello world in jersey
